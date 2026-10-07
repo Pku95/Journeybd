@@ -1,0 +1,4 @@
+<Files "bookings-log.txt">
+Require all denied
+</Files>
+DirectoryIndex index.html
